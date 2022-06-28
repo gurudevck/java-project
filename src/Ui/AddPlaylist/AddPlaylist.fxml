@@ -8,7 +8,7 @@
 <?import javafx.scene.image.ImageView?>
 <?import javafx.scene.layout.AnchorPane?>
 
-<AnchorPane prefHeight="318.0" prefWidth="529.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Ui.AddPlaylist.AddPlaylistController">
+<AnchorPane prefHeight="317.9" prefWidth="529.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Ui.AddPlaylist.AddPlaylistController">
    <children>
       <ImageView fitHeight="325.0" fitWidth="527.0" pickOnBounds="true">
          <effect>
